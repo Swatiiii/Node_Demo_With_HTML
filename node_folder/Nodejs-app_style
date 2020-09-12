@@ -1,0 +1,50 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0 px;
+    margin: 0px;
+  justify-content: center;
+  
+}
+ul{
+    border-radius: 4px;
+    display: flex;
+    background-color:#dbe47b;
+    /* margin: 10px; */
+    /* background-color: rgb(151, 240, 151); */
+}
+li{
+    list-style: none;
+    margin: 36px 63px;
+    align-items: center;
+    font-weight: bold;
+    font-size: 26px;
+    
+}
+
+nav{
+    /* background-color: yellow; */
+    /* background-image: url('https://www.google.com/url?sa=i&url=http%3A%2F%2F7-themes.com%2F6886689-forest-sun.html&psig=AOvVaw0OG8_g4q8pKxIIUhC1Xb1I&ust=1598713218674000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLj8-_6UvusCFQAAAAAdAAAAABAO'); */
+}
+a{
+  
+  text-decoration: none;
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+    /* background-color: yellow; */
+}
+.container{
+margin: 10px;
+background: url('https://www.google.com/url?sa=i&url=http%3A%2F%2Fgenesisbiosciences.co.uk%2Fpond-maintenance-on-golf-courses%2Fgolf-course-stock-image-pixabay%2F&psig=AOvVaw0OG8_g4q8pKxIIUhC1Xb1I&ust=1598713218674000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLj8-_6UvusCFQAAAAAdAAAAABBd');
+}
+textarea,input{
+    width: 1000px;
+    padding: 10px;
+    margin: 32px auto;
+    border-radius: 4px;
+    border: 2px solid black;
+    /* text-align: center; */
+    display: block;
+    justify-content: center;
+}
